@@ -1,0 +1,2 @@
+model_checkpoint_path: "model-ft-01-03"
+all_model_checkpoint_paths: "model-ft-01-03"
